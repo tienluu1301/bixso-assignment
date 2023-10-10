@@ -1,0 +1,14 @@
+build/
+coverage/
+__snapshots__/
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+# package.json
+# next.js
+/.next/
+/out/
+.prettierignore
+.stylelintignore
+.eslintignore
